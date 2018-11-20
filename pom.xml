@@ -1,8 +1,8 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>@groupId@</groupId>
-  <artifactId>@artifactId@</artifactId>
-  <version>@version@</version>
+  <groupId>java</groupId>
+  <artifactId>sample-java-project</artifactId>
+  <version>1.0/version>
   <packaging>jar</packaging>
 
   <name>@ant.project.name@</name>
@@ -26,8 +26,8 @@
 
   <developers>
     <developer>
-      <name>Christopher Wellons</name>
-      <email>mosquitopsu@gmail.com</email>
+      <name>sudhir</name>
+      <email>sudhir23.mca@gmail.com</email>
       <url>http://nullprogram.com</url>
       <timezone>-5</timezone>
     </developer>
